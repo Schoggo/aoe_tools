@@ -2,7 +2,7 @@
 
 This [Minetest](https://www.minetest.net/) mod adds tools that can dig nodes in an area, just like, eg, the Hammer and Excavator from [Tinkers' Construct](https://github.com/SlimeKnights/TinkersConstruct).
 
-To use the AOE-digging function, you have to rightclick the node in the middle and then mine it.
+This is currently broken, it needs an engine feature I'm just implementing.
 
 Currently this mod is very much WIP.
 
